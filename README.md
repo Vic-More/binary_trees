@@ -256,4 +256,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Author
-* [Victor Nwafor]{https//github.com/Vic-More}
+* __Victor Nwafor__ <[Vic-More](https://github.com/Vic-More)>
